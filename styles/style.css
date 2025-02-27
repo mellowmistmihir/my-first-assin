@@ -9,6 +9,15 @@
 .dark-1{
     color:#0D1321 ;  
 }
+.yollow{
+   background-color: #FFDF000D
+}
+.blue{
+    background-color: #004CE80D;
+}
+.pink{
+    background-color: #FF4C1E0D;
+}
 
 /* header */
 nav ul{
@@ -122,3 +131,165 @@ text-align: left;
 .box-img{
     margin-top: 80px;
 }
+/* video styles */
+.video{
+    text-align: center;
+}
+.video-style{
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+gap: 10;
+padding: 32px;
+position: static;
+margin-top: 30px;
+padding: 20;
+}
+/* skill styles */
+.skills{
+    text-align: center;
+    margin: 100px;
+}
+.skill-conteiner{
+    display: flex;
+    gap: 24px;
+    text-align: left;
+}
+.skill{
+    padding: 40px;
+}
+.more{
+    color: black;
+    text-align: left;
+}
+/* card styles */
+.cards{
+    text-align: center;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+padding: 20px;
+
+}
+.card-title{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+letter-spacing: 0%;
+text-align: left;
+}
+.card-des{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+letter-spacing: 0%;
+text-align: left;
+}
+.asif{
+    padding-top: 90px;
+}
+.mihir{
+    padding: 30px;
+}
+/* uddin styles */
+.uddins{
+
+
+
+
+
+
+
+}
+.uddin{
+    text-align: center;
+    margin: 50px;
+    background-image: url(../assets/handshake.jpg);
+    Width: 100%;
+Height: 420px;
+Top: 4752px;
+Left: 150px;
+border-radius: 16px;
+ padding: 60px, 30px, 60px, 30px
+
+    
+    
+    
+    
+}
+.title{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding: 100px 0 0 0;
+}
+.des{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 30px;
+}
+.btn{
+width: 548px;
+height: 57px;
+border-color: white;
+}
+::placeholder{
+color: rgba(13, 19, 33, 0.4);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+    position: static;
+width: 313px;
+height: 19px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+gap: 10;
+padding: 19px 20px 19px 20px;
+}
+.bal{
+    display: flex;
+    justify-content:center;
+    gap: 20px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    
+    border-radius: 16px;
+background: rgba(13, 19, 33, 0.03);
+padding: 50px 200px;
+}
+.foot-title{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-decoration: solid;
+    
+}
+
