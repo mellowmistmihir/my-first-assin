@@ -84,6 +84,10 @@ main{
     padding: 130px 150px;
     background-color : rgba(0, 0, 0, 0.02),rgb(255, 255, 255);
     text-align: center;
+    margin-top: 40px;
+    background-color: whitesmoke;
+    padding: 20 0;
+    
 }
 .section-title{
     font-size: 32px;
@@ -103,6 +107,7 @@ letter-spacing: 0%;
 .box-items{
    display: flex;
    justify-content:space-around;
+
 }
 .item-title{
 color: rgba(13, 19, 33, 0.7);
@@ -127,6 +132,7 @@ text-align: left;
     margin-right: 100px;
     margin-top: 80px;
     padding-left: 48px;
+    background-color: aliceblue;
 }
 .box-img{
     margin-top: 80px;
